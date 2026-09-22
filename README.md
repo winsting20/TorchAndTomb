@@ -8,9 +8,9 @@ Hover your cursor and watch crates, jars and wandering monsters shatter before y
 
 ## 다운로드 / Download
 
-[Releases](../../releases/latest) 에서 `TorchAndTomb_Demo_v0.1.0_win64.zip` 을 받는다.
+[Releases](../../releases/latest) 에서 `TorchAndTomb_Demo_v0.2.0_win64.zip` 을 받는다.
 
-Get `TorchAndTomb_Demo_v0.1.0_win64.zip` from [Releases](../../releases/latest).
+Get `TorchAndTomb_Demo_v0.2.0_win64.zip` from [Releases](../../releases/latest).
 
 ## 실행 / How to run
 
@@ -23,7 +23,7 @@ Get `TorchAndTomb_Demo_v0.1.0_win64.zip` from [Releases](../../releases/latest).
 ## 데모 범위 / What's in the demo
 
 - 던전 3곳: 마을 뒷산 무덤 · 청동 납골당 · 은빛 성골함실 / 3 dungeons: Hillside Graves · Bronze Ossuary · Silver Reliquary
-- 스킬 노드 127개, 무기 7종, 유물 22종 / 127 skill nodes, 7 weapons, 22 relics
+- 스킬 노드 134개, 무기 7종, 유물 22종 / 134 skill nodes, 7 weapons, 22 relics
 - 네 번째 던전부터는 정식판에서 이어진다. / The fourth dungeon onward is in the full game.
 
 ## 세이브 / Save data
